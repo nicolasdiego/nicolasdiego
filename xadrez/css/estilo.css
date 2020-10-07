@@ -1,0 +1,73 @@
+body#principal {
+    background-color: rgb(255, 41, 166);
+    color: rgb(0, 0, 0);
+ }
+ #principal a {
+    color: white;
+    text-decoration: none; 
+    cursor: pointer; 
+ }
+  
+ #principal a:hover { 
+    color: yellow;
+ }
+ img {
+    width: 300px;
+    display: block;
+    margin: 0 auto; /*alinhando ao centro*/
+    transition: all 0.3s;
+    border: 5px solid white;   
+ }
+ img:hover {
+    width: 320px;
+    box-shadow: 0 0 20px black;
+ }
+ 
+footer a{
+    background-color: aliceblue;
+    width: fit-content;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    border: 2px outset aliceblue;
+    display: block;
+    margin: 0 auto;
+    border-radius: 3px;
+ }
+  
+ footer a:hover {
+    border: 2px inset gainsboro;
+    background-color: gainsboro;
+ }
+ body#pg01 {
+    background-color: red;
+    color: white;
+ }
+ body#pg02 {
+    background-color: red;
+    color: white;
+ }
+ body#pg03 {
+    background-color: red;
+    color: white;
+ }
+ body#pg04 {
+    background-color: red;
+    color: white;
+ }
+ body#pg05 {
+    background-color: red;
+    color: white;
+ }
+ body#pg06 {
+    background-color: red;
+    color: white;
+ }
+ img {
+    width: 300px;
+    display: block;
+    margin: 0 auto; /*alinhando ao centro*/
+    transition: all 0.3s;
+    border: 5px solid white;   
+ }
+ 
